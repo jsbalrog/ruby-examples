@@ -1,0 +1,9 @@
+1276740900
+Dog	/home/etjenkins/Dropbox/work/study/ruby/src/BookOfRuby/ch1/Dog.rb	class Dog
+Foo	/home/etjenkins/Dropbox/work/study/ruby/src/BookOfRuby/ch1/variables.rb	class Foo
+amethod	/home/etjenkins/Dropbox/work/study/ruby/src/BookOfRuby/ch1/variables.rb	def amethod
+anotherMethod	/home/etjenkins/Dropbox/work/study/ruby/src/BookOfRuby/ch1/variables.rb	def anotherMethod
+foo	/home/etjenkins/Dropbox/work/study/ruby/src/BookOfRuby/ch1/variables.rb	  def foo
+get_name	/home/etjenkins/Dropbox/work/study/ruby/src/BookOfRuby/ch1/Dog.rb	  def get_name
+set_name	/home/etjenkins/Dropbox/work/study/ruby/src/BookOfRuby/ch1/Dog.rb	  def set_name
+talk	/home/etjenkins/Dropbox/work/study/ruby/src/BookOfRuby/ch1/Dog.rb	  def talk

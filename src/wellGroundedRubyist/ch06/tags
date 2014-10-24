@@ -1,0 +1,10 @@
+1276802776
+Array	/home/jenkinset/Dropbox/work/study/ruby/src/WellGroundedRubyist/ch06/my_each.rb	class Array
+Integer	/home/jenkinset/Dropbox/work/study/ruby/src/WellGroundedRubyist/ch06/my_times.rb	class Integer
+Ticket	/home/jenkinset/Dropbox/work/study/ruby/src/WellGroundedRubyist/ch06/my_threequels.rb	class Ticket
+date	/home/jenkinset/Dropbox/work/study/ruby/src/WellGroundedRubyist/ch06/my_threequels.rb		attr_accessor :venue, :date
+initialize	/home/jenkinset/Dropbox/work/study/ruby/src/WellGroundedRubyist/ch06/my_threequels.rb		def initialize
+my_each	/home/jenkinset/Dropbox/work/study/ruby/src/WellGroundedRubyist/ch06/my_each.rb	  def my_each
+my_loop	/home/jenkinset/Dropbox/work/study/ruby/src/WellGroundedRubyist/ch06/my_loop.rb	def my_loop
+my_times	/home/jenkinset/Dropbox/work/study/ruby/src/WellGroundedRubyist/ch06/my_times.rb	  def my_times
+venue	/home/jenkinset/Dropbox/work/study/ruby/src/WellGroundedRubyist/ch06/my_threequels.rb		attr_accessor :venue, :date

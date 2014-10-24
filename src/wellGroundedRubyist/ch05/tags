@@ -1,0 +1,7 @@
+1276737911
+C	/home/etjenkins/Dropbox/work/study/ruby/src/wellGroundedRubyist/ch05/scopes.rb	class C
+initialize	/home/etjenkins/Dropbox/work/study/ruby/src/wellGroundedRubyist/ch05/scopes.rb	  def initialize
+m	/home/etjenkins/Dropbox/work/study/ruby/src/wellGroundedRubyist/ch05/scopes.rb	  def m
+n	/home/etjenkins/Dropbox/work/study/ruby/src/wellGroundedRubyist/ch05/scopes.rb	  def n
+t	/home/etjenkins/Dropbox/work/study/ruby/src/wellGroundedRubyist/ch05/scopes.rb	def t
+x	/home/etjenkins/Dropbox/work/study/ruby/src/wellGroundedRubyist/ch05/scopes.rb	  def self.x

@@ -1,0 +1,15 @@
+1298512653
+Cat	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/pet.rb	class Cat 
+Dog	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/pet.rb	class Dog 
+Person	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/person.rb	class Person
+Pet	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/pet.rb	class Pet
+Snake	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/pet.rb	class Snake 
+age	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/person.rb		attr_accessor :name, :age, :gender
+age	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/pet.rb		attr_accessor :name, :age, :gender, :color
+bark	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/pet.rb		def bark
+color	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/pet.rb		attr_accessor :name, :age, :gender, :color
+gender	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/person.rb		attr_accessor :name, :age, :gender
+gender	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/pet.rb		attr_accessor :name, :age, :gender, :color
+length	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/pet.rb		attr_accessor :length
+name	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/person.rb		attr_accessor :name, :age, :gender
+name	/home/jenkinset/Dropbox/work/study/ruby/src/BeginningRuby/ch02/pet.rb		attr_accessor :name, :age, :gender, :color
